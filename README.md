@@ -1,1 +1,1 @@
-# Trabalho-App-Mobile
+Trabalho em sala de aula- Confecção de um Aplicativo mobile onde o usuário tem acesso a Data e Hora do dia além de frases motivacionais.
